@@ -56,7 +56,7 @@ including:
 - HASOC 2020
 - HASOC 2021
 - EXIST 2021
-- GESIS
+- GESIS 2019
 
 Where applicable, experiments are further divided into:
 - Whole dataset
